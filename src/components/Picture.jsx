@@ -5,10 +5,10 @@ const Picture = ({ data }) => {
     <div className="container">
       <div className="picture">
         <div className="imgDiv">
-          <img src="{data.src.large}" alt="img" />
+          <img src={data.src.large} alt="img" />
         </div>
         <div className="infoPhoto">
-          <p style={{ color: "blue" }}>{data.photographer.toLocalUpperCase}</p>
+          <p style={{ color: "purple" }}>{data.photographer}</p>
         </div>
       </div>
     </div>
