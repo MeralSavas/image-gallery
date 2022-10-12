@@ -1,4 +1,4 @@
-[# Project : Template
+Project : Template
 ## Check The Live Website :arrow_right: [Live Website](https://garden-design.netlify.app/)
 ## Visualization of the Website
 ![Form]()
