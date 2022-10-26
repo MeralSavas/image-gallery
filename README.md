@@ -17,7 +17,7 @@ use git commands (push, pull, commit, add etc.) and Github as Version Control Sy
 We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 ## Project Skeleton
 Image Gellery Project(folder)
-|
+```|
 |----README.md
 ├── public
 │     └── index.html
@@ -32,7 +32,7 @@ Image Gellery Project(folder)
 │    │       ├── style.css
 │    ├── App.js
 │    ├── index.js
-└── package.json
+└── package.json```
 ## Overview
 I mastered HTML & CSS & JS & ReactJS features in this project. You can see the visual representation of the website above.
 
