@@ -49,15 +49,4 @@ Step 4: Add project gif to your project and README.md file.
 
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-
-
-
 
