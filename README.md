@@ -7,15 +7,15 @@
 ## Description
 Project aims to create an image gallery app using React.
 
-## Learning Outcomes
-At the end of the project, you will be able to;
+## Used Language
 
-improve coding skills within HTML & CSS & JS & ReactJS.
+HTML & CSS & JS & ReactJS.
 
 use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Problem Statement
 We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+
 ## Project Skeleton
 Image Gellery Project(folder)
 ```|
@@ -34,6 +34,7 @@ Image Gellery Project(folder)
 │    ├── App.js
 │    ├── index.js
 └── package.json```
+
 ## Overview
 I mastered HTML & CSS & JS & ReactJS features in this project. You can see the visual representation of the website above.
 
